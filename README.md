@@ -4,7 +4,7 @@
 const midudev = {
 pronouns: "he" | "him",
 code: [Javascript, Java, Ruby, HTML5, CSS, MySql],
-tools: [Boostrap, 3D Studio max, Blender, Adobe photoshop, Adobe Illustrator, gimp, Krita, Adobe Premiere, Adobe After Effects ],
+tools: [3D Studio max, Blender, Adobe photoshop, Adobe Illustrator, gimp, Krita, Adobe Premiere, Adobe After Effects ],
 }
 
 
