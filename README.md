@@ -1,15 +1,15 @@
 ### HI, I’m Lionel 👋
 
 --js
-const midudev = {
+const lionCode= {
 pronouns: "he" | "him",
-code: [Javascript, Java, Ruby, HTML5, CSS, MySql],
-tools: [3D Studio max, Blender, Adobe photoshop, Adobe Illustrator, gimp, Krita, Adobe Premiere, Adobe After Effects ],
+code: [Javascript, Java, , HTML5, CSS, MySql],
+tools: [visual studio code, eclipse,3D Studio max, Blender, Adobe photoshop, Adobe Illustrator, gimp, Krita, Adobe Premiere, Adobe After Effects ],
 }
 
 
 you can find me :
-Linkedin: https://ar.linkedin.com/in/lionel-staricoff-a6543844?original_referer=https%3A%2F%2Fwww.google.com%2F
+Linkedin: https://www.linkedin.com/in/lionel-staricoff/
 Youtube: https://www.youtube.com/channel/UCI2D8NvLj-AChUOK1TlPtgg?app=desktop
 
 <!--
