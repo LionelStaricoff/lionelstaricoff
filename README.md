@@ -3,8 +3,8 @@
 
 <div>
 <a href="https://veacons.ai/rafaballerini">
-<img heigtht="180em" src="https://github-readme-stats.vercel.app/api?username=lionelstaricoff&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img heigtht="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lionelstaricoff&layout=compact&langs_count=16&theme=dracula">
+<img  heigtht="180em" src="https://github-readme-stats.vercel.app/api?username=lionelstaricoff&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img width="360em" heigtht="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lionelstaricoff&layout=compact&langs_count=16&theme=dracula">
 </div> 
 
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
