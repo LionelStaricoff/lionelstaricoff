@@ -1,25 +1,10 @@
-### HI, I’m Lionel 👋
+### Hola, soy Lionel Staricoff.
+## Un apasionado desarrollador full stack Jaja. Me especializo en la creación de proyectos innovadores utilizando las últimas tecnologías y prácticas adaptativas. Es un placer conocerte y compartir mi trabajo contigo
 
---js
-const lionCode= {
-pronouns: "he" | "him",
-code: [Javascript, Java, , HTML5, CSS, MySql],
-tools: [visual studio code, eclipse,3D Studio max, Blender, Adobe photoshop, Adobe Illustrator, gimp, Krita, Adobe Premiere, Adobe After Effects ],
-}
+<div>
+<a href="https://veacons.ai/rafaballerini">
+<img heigtht="180em" src="https://github-readme-stats.vercel.app/api?username=lionelstaricoff&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img heigtht="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lionelstaricoff&layout=compact&langs_count=16&theme=dracula">
+</div> 
 
-
-you can find me :
-Linkedin: https://www.linkedin.com/in/lionel-staricoff/
-Youtube: https://www.youtube.com/channel/UCI2D8NvLj-AChUOK1TlPtgg?app=desktop
-
-<!--
-**LionelStaricoff/lionelstaricoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...Freelancer
-- 🌱 I’m currently learning ...programming fullStack Java
-- 👯 I’m looking to collaborate on ...project web
-- 🤔 I’m looking for help with ...app and games web
-- 💬 Ask me about ...design digital
--->
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
